@@ -956,9 +956,10 @@ color: #000;
 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 100%) {
 .banner-container > img {
 	min-width: 100%;
+	width:350px;
 	height:400px;
 	
 }
