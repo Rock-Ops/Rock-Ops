@@ -13,6 +13,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	background: #fff;
+	color: #41b6e6;
 }
 ::selection {
 	color: #fff;
@@ -269,7 +270,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 	font-weight: 200;
 }
 .page-section h2 {
-	color: #000;
+	color: #fff;
 }
 .page-section p {
 	font-size: 1.1em;
@@ -456,7 +457,7 @@ float: none;
 /*Intro Content*/
 #introText {
 	padding: 50px 0;
-	background: #000;
+	background: #41b6e6;
 }
 #introText h1 {
 	font-size: 40px;
@@ -466,7 +467,7 @@ float: none;
 	color: #fff;
 }
 #introText p {
-	color: #AEAEAE;
+	color: #fff;
 	font-size: 16px;
 }
 #aboutUs{
