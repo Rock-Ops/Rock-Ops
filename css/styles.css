@@ -177,7 +177,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 	height: 80px;
 }
 .carousel-caption h1 {
-	font-size: 45px;
+	font-size: 60px;
 	padding: 10px 15px;
 	background: rgba(128, 180, 33, 0.80);
 	color: #41b6e6;
@@ -460,7 +460,7 @@ float: none;
 	background: #41b6e6;
 }
 #introText h1 {
-	font-size: 40px;
+	font-size: 60px;
 	margin: 0;
 	padding-bottom: 16px;
 	font-variant: small-caps;
@@ -478,6 +478,14 @@ padding:60px 0;
 	padding: 20px 10px;
 }
 #aboutUs .txtHead .fa {
+	font-size: 58px;
+	color: #5E5E5E;
+}
+#clients .txtHead {
+	background: #fff;
+	padding: 20px 10px;
+}
+#clients .txtHead .fa {
 	font-size: 58px;
 	color: #5E5E5E;
 }
@@ -576,6 +584,7 @@ min-height:200px;
 }
 .chart-text h4 { 
 	font-size: 23px;
+	font-variant: small-caps;
 }
 /*Experience*/
 #experience{
