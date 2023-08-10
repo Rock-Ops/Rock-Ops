@@ -511,10 +511,10 @@ box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(1
 	box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(109, 139, 232, 0.2);
 	}
 .tileBox2 p { 
-	font-size: 5px;
+	font-size: 10px;
 	color: #777777;
-	padding: 20px;
-	margin: 5px;
+	padding: 40px;
+	margin: 10px;
 }
 
 /*parlex*/
