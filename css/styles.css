@@ -506,9 +506,9 @@ box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(1
 }
 .tileBox2 img{
 	overflow:hidden;
-	border-radius:120px;
+	border-radius:20px;
 	width:100px;
-	box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(109, 139, 232, 0.2);
+	box-shadow: 1px 0px 0px 1px rgba(13, 113, 165, 0.2), -1px 0px 0px 1px rgba(109, 139, 232, 0.2);
 	}
 .tileBox2 p { 
 	font-size: 10px;
