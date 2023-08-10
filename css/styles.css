@@ -498,8 +498,8 @@ box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(1
 .tileBox p { 
 	font-size: 15px;
 	color: #777777;
-	padding: 20px;
-	margin: 0px;
+	padding: 40px;
+	margin: 10px;
 }
 /*parlex*/
 .bg-parlex {
