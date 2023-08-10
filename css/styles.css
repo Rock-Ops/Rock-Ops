@@ -178,7 +178,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 }
 .carousel-caption h1 {
 	font-size: 60px;
-	padding: 10px 15px;
+	padding: 15px 20px;
 	background: rgba(128, 180, 33, 0.80);
 	color: #41b6e6;
 	text-shadow: none;
@@ -462,7 +462,7 @@ float: none;
 #introText h1 {
 	font-size: 60px;
 	margin: 0;
-	padding-bottom: 16px;
+	padding-bottom: 30px;
 	font-variant: small-caps;
 	color: #fff;
 }
@@ -1100,7 +1100,7 @@ margin-top: 30%;
 	height:300px;
 }
 .page-section h1 {
-	font-size: 5em;
+	font-size: 7em;
 }
 .page-section h2 {
 	font-size: 2em;
