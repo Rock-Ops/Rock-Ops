@@ -504,6 +504,19 @@ box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(1
 	padding: 40px;
 	margin: 10px;
 }
+.tileBox2 img{
+	overflow:hidden;
+	border-radius:120px;
+	width:100px;
+	box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(109, 139, 232, 0.2);
+	}
+.tileBox2 p { 
+	font-size: 5px;
+	color: #777777;
+	padding: 20px;
+	margin: 5px;
+}
+
 /*parlex*/
 .bg-parlex {
 	padding-top: 0px;
@@ -1011,6 +1024,13 @@ color: #000;
     color: #5E5E5E;
 }
 .tileBox p {
+    background-color: #F0F0F0;
+    font-size: 15px;
+    color: #777;
+    padding: 20px;
+    margin: 0px;
+}
+.tileBox2 p {
     background-color: #F0F0F0;
     font-size: 15px;
     color: #777;
