@@ -421,6 +421,7 @@ float: none;
 }
 .heading {
 	padding: 3px 10px;
+	padding-top: 10px;
 	padding-bottom: 15px;
 	margin-bottom: 30px;
 	display: block;
@@ -563,7 +564,7 @@ box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(1
 	float: center;
 }
 .chart-text {
-	margin-top: 0px;
+	margin-top: 10px;
 }
 .skillContainer{
 	margin-bottom: 50px;	
