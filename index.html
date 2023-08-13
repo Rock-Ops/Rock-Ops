@@ -56,12 +56,18 @@
 <!--/.header-->
 <div id="#top"></div>
 <section id="home">
-  <div class="banner-container"> <img src="images/banner-bg.jpg" alt="banner" />
+  <div class="banner-container"> <img 
+        srcset="images/banner-bg.jpg 768w,
+                images/logo.png 320w"
+        sizes="(min-width: 768px) 768px,
+               320px"
+        src="images/banner-bg.jpg"
+        alt="banner"/>
     <div class="container banner-content"> 
             <div class="row">
                 <header class="centered">
                 </header>
-            </div> 
+    </div> 
   </div>
 </section>
 <section id="introText">
