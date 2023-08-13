@@ -981,6 +981,16 @@ color: #000;
 
 }
 
+
+@media (max-width: 480px) {
+.banner-container > img {
+	min-width: 100%;
+	height:400px;
+	
+	}
+}
+
+
 /* For desktop screens */
 @media (min-width: 768px) {
     #responsive-image {
@@ -996,31 +1006,6 @@ color: #000;
         background-image: url('images/logo.png');
     }
 }
-
-/* For desktop screens */
-@media (min-width: 768px) {
-	.banner-container > img {
-		min-width: 100%;
-		height:400px;
-		}
-	}
-
-/* For mobile screens */
-@media (max-width: 767px) {
-	.banner-container > img {
-		min-width: 100%;
-		height:400px;
-		}
-	}
-
-/*@media (max-width: 480px) {
-.banner-container > img {
-	min-width: 100%;
-	height:400px;
-	
-	}
-}
-*/
 
 .team-member .member-img img {
 	max-width: 100%;
